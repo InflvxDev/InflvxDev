@@ -6,5 +6,5 @@ I am a systems engineering student. Web and desktop application developer. Front
 
 <h3> 🛠 &nbsp;Skills</h3>
 
-![C#]([https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white))
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
