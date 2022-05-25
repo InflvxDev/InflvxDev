@@ -37,5 +37,5 @@ I am a systems engineering student. Web and desktop application developer. Front
 
 ### :octocat: Github Stats
 <a href="https://github.com/InflvxDev">
-  <a href="https://github-readme-stats.vercel.app/api?username=InflvxDev&theme=blue-green"></a>
+  <img alt="InflvxDev GitHub Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=InflvxDev&theme=blue-green"/>
 </a>
