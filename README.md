@@ -37,6 +37,6 @@ I am a systems engineering student. Web and desktop application developer. Front
 
 ### :octocat: Github Stats
 <a href="https://github.com/InflvxDev">
-  <img alt="InflvxDev GitHub Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=InflvxDev&theme=blue-green"/>
-  <img alt="InflvxDev Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InflvxDev&theme=blue-green"/>
+  <img alt="InflvxDev GitHub Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=InflvxDev&theme=dark"/>
+  <img alt="InflvxDev Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InflvxDev&theme=dark"/>
 </a>
