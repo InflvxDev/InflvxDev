@@ -36,3 +36,6 @@ I am a systems engineering student. Web and desktop application developer. Front
 ![APACHE NEATBEANS](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
 
 ### :octocat: Github Stats
+<a href="https://github.com/InflvxDev">
+  <a href="https://github-readme-stats.vercel.app/api?username=InflvxDev&theme=blue-green"></a>
+</a>
