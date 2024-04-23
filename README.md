@@ -2,7 +2,7 @@
 
 <h3>I'm Sebastian Ochoa (InflvxDev)</h3>
 
-Systems engineering student, focused on web and mobile applications. I have knowledge of languages like HTML, CSS, JavaScript, C#, Dart, Java, Python and SQL. I use frameworks and tools like Angular, Flutter, ASP.Net, Node.js, Spring Boot and different relational and non-relational databases.
+Systems Engineer, focused on software development and data analysis. I have knowledge of languages such as HTML, CSS, JavaScript, C#, Dart, Java, Python, and SQL. I use frameworks and tools like Angular, Flutter, ASP.Net, Power BI, Talend, and various relational and non-relational databases.
 
 
 ### :octocat: Github Stats
